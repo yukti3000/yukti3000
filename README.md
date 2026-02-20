@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Er. Yukti 👋
 
-<!--
-**yukti3000/yukti3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://i.imgur.com/AbD4hOB.jpg)
 
-Here are some ideas to get you started:
+# 💫 About Me:
+Hey 👋 I’m Yukti<br><br>🎓 2026 Graduate | Computer Science & Data Enthusiast<br>🤖 Machine Learning & Analytics-Focused Engineer<br>📊 Building intelligent, data-driven systems for real-world impact<br><br>I’m interested in technology that turns raw data into meaningful decisions.<br>My focus is on building systems that combine analytical depth, strong logic, and practical business relevance.<br><br>👩‍💻 About Me<br><br>I’m a Machine Learning enthusiast who enjoys transforming messy datasets into structured insights and predictive models.<br><br>I care deeply about clarity in thinking, strong fundamentals, and building systems that actually solve problems — not just models that look good on paper.<br><br>My work sits at the intersection of:<br><br>Data Science<br><br>Machine Learning<br><br>Financial Analytics<br><br>AI-driven automation<br><br>Right now, I’m focused on strengthening my understanding of model optimization, real-world ML deployment, and advanced analytics.<br><br>My long-term goal is to grow into an ML Engineer who builds scalable, intelligent systems that drive measurable business impact.<br><br>🚧 Currently Exploring & Building<br><br>🔹 AI Agents & Autonomous Workflows<br>Exploring how intelligent agents can automate decision-making processes and interact dynamically with data.<br><br>🔹 Predictive Financial Models<br>Applying ML algorithms to stock trends, forecasting, and financial pattern recognition.<br><br>🔹 Data-Driven Dashboards<br>Using analytics and visualization to convert raw data into actionable business insights.<br><br>🧩 Tools & Technologies<br><br>Instead of just listing names, here’s what I actually work with 👇<br><br>🧠 Languages & Core Logic<br><br>🐍 Python<br>💻 C++<br>🗄 SQL<br><br>🤖 Machine Learning & AI<br><br>📊 scikit-learn<br>🔥 TensorFlow<br>🧠 Keras<br>📈 Model evaluation & optimization<br>📦 Data preprocessing & feature engineering<br><br>📊 Data & Analytics<br><br>📉 Pandas<br>🔢 NumPy<br>📊 Tableau<br>📚 Exploratory Data Analysis<br><br>🛠 Daily Tools<br><br>🐙 GitHub<br>📓 Jupyter Notebook<br>🖥 VS Code<br><br>🚀 Selected Work<br><br>🔮 Stock Price Prediction Model<br>Built a predictive ML model using historical financial data with proper preprocessing, training, and evaluation strategies.<br><br>📊 Financial Analytics Projects<br>Worked on data-driven solutions focused on business insights and forecasting.<br><br>🤖 AI & ML Internship Work<br>Contributed to practical ML implementations during my internship, focusing on structured problem-solving and performance improvement.<br><br>🧠 How I Think<br><br>I believe good AI systems come from:<br><br>• Strong fundamentals before complexity<br>• Clean data before complex models<br>• Understanding business before algorithms<br>• Consistency over motivation<br><br>I try to keep my work analytical, structured, and future-ready.<br>🌟 Fun Fact<br>My name "Yukti" means "trick" or "solution" - fitting for a problem-solver in tech!<br>📫 Let’s Connect<br><br>💼 LinkedIn →https://www.linkedin.com/in/yukti3000/<br>💻 GitHub →https://github.com/yukti3000<br>📧 Email → yuktimehta3000@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yukti_3000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yukti3000/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/yuktimehta3000/_profile/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuktimehta3000@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yukti3000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yukti3000&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukti3000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yukti3000&icon=1&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
